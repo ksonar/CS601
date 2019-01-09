@@ -8,4 +8,4 @@ A message broker framework that will support publish/subscribe functionality. Se
 ## [Project 3 - HTTP Server](https://github.com/ksonar/CS601/blob/master/project3.md)
 HTTP server that supports two applications, Search and Chat Application. Build the server, APIs and handler from scratch. Test cases. Deploy on microcloud.
 ## [Project 4 Option 2 - Service-Oriented Architecture](https://github.com/ksonar/CS601/blob/master/project4option2.md)
-Microservice Service Oriented Architecture to build a ticket purchasing application. User can **only** interact with the front end. Develop Event and User services at backend with their own SQL database. Both the backend services must send requests to each other to retrieve their respective data. Deploy on microcloud.
+Microservice Service Oriented Architecture to build a ticket purchasing application. User can **only** interact with the front end APIs which would make calls to the appropriate APIs in the backend services. Develop Event and User services at backend with their own SQL database. Both the backend services must send requests to each other to retrieve their respective data. Deploy on microcloud.
