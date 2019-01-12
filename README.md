@@ -1,4 +1,4 @@
-# CS601 - Principles of Software Development Projects Fall 2018
+# USF CS601 - Principles of Software Development Projects Fall 2018
 ## [Project 0 - Data Analysis and Java Practice](https://github.com/ksonar/CS601/blob/master/project0.md)
 Perform some basic data analysis on a movie review dataset. Warmup project.
 ## [Project 1 - Amazon Review and Q&A Search](https://github.com/ksonar/CS601/blob/master/project1.md)
